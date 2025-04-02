@@ -7,6 +7,7 @@ public class Tester {
     private String englishLevel;
     private double salary;
 
+
     public Tester(String name, String surname) {
         this(name, surname, 0, "B1", 0.0);
     }
