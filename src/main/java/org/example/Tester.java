@@ -29,6 +29,7 @@ public class Tester {
 
 
 
+
     public void printInfo() {
         System.out.println("Имя: " + name + ", Фамилия: " + surname);
     }
