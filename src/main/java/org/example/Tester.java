@@ -24,6 +24,8 @@ public class Tester {
         this.salary = salary;
     }
 
+
+
     public void printInfo() {
         System.out.println("Имя: " + name + ", Фамилия: " + surname);
     }
