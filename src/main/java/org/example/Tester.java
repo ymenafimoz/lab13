@@ -9,6 +9,7 @@ public class Tester {
 
 
 
+
     public Tester(String name, String surname) {
         this(name, surname, 0, "B1", 0.0);
     }
@@ -24,11 +25,6 @@ public class Tester {
         this.englishLevel = englishLevel;
         this.salary = salary;
     }
-
-
-
-
-
 
     public void printInfo() {
         System.out.println("Имя: " + name + ", Фамилия: " + surname);
