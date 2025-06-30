@@ -9,6 +9,8 @@ public class Main {
         Tester tester2 = new Tester("Кирилл", "Левчук");
         Tester tester3 = new Tester("Никита", "Шетик", 3, "C1", 5000.0);
 
+
+
         tester1.printInfo();
         tester2.printInfo(true);
         tester3.printInfo(true, true, true);
