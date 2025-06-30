@@ -18,6 +18,7 @@ public class Tester {
     }
 
 
+
     public Tester(String name, String surname, int expirienceInYears, String englishLevel, double salary) {
         this.name = name;
         this.surname = surname;
