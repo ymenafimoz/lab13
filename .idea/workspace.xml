@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22efa2e3-ff97-4137-b8de-4093da1ac319" name="Changes" comment="init commitygughyufsdf12ewwewxwxhjg">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="22efa2e3-ff97-4137-b8de-4093da1ac319" name="Changes" comment="init commitygughyufsdf12ewwewxwxhjgxhz" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,15 +38,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/JAVA/lab122&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Vovanchik",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JAVA/lab122"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
@@ -185,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751011704870</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="init commitygughyufsdf12ewwewxwxhjgxhz">
+      <option name="closed" value="true" />
+      <created>1751276673340</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1751276673340</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,6 +205,7 @@
     <MESSAGE value="init commitygughyufsdf12edf" />
     <MESSAGE value="init commitygughyufsdf12ewwewxwxhjg" />
     <MESSAGE value="init commitygughyufsdf12ewwewxwxhjgsfhghd" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commitygughyufsdf12ewwewxwxhjgsfhghd" />
+    <MESSAGE value="init commitygughyufsdf12ewwewxwxhjgxhz" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commitygughyufsdf12ewwewxwxhjgxhz" />
   </component>
 </project>
