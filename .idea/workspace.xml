@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22efa2e3-ff97-4137-b8de-4093da1ac319" name="Changes" comment="init commitygughyufsdf12ewwewxwxhjg" />
+    <list default="true" id="22efa2e3-ff97-4137-b8de-4093da1ac319" name="Changes" comment="init commitygughyufsdf12ewwewxwxhjg">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +20,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ymenafimoz"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ymenafimoz&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ymenafimoz/lab13.git&quot;,
@@ -196,6 +198,7 @@
     <MESSAGE value="init commitygughyufsdfdfdfhyuk,jy" />
     <MESSAGE value="init commitygughyufsdf12edf" />
     <MESSAGE value="init commitygughyufsdf12ewwewxwxhjg" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commitygughyufsdf12ewwewxwxhjg" />
+    <MESSAGE value="init commitygughyufsdf12ewwewxwxhjgsfhghd" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commitygughyufsdf12ewwewxwxhjgsfhghd" />
   </component>
 </project>
