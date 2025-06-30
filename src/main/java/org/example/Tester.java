@@ -8,12 +8,6 @@ public class Tester {
     private double salary;
 
 
-
-
-
-    
-
-
     public Tester(String name, String surname) {
         this(name, surname, 0, "B1", 0.0);
     }
